@@ -169,7 +169,7 @@ function flagAnimation() {
             gsap.to("#flag-image", {
                 opacity: 1,
                 left: dets.x - 400,
-                top: dets.y - 400
+                top: dets.y - 350
             })
         })
     })
